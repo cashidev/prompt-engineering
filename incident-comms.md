@@ -1,3 +1,11 @@
+Release Tracker App (For SRE / Support Teams)  
+🎯 Problem It Solves  
+“What changed?” during incidents  
+Lack of visibility into deployments across services  
+No quick mapping between incident ↔ release ↔ owner  
+***
+
+
 Build a full-stack MVP Release Tracker application for SRE teams.
 
 Tech Stack:
@@ -146,3 +154,4 @@ Provide an SRE-friendly release tracker where:
 - Data is always consistent (UTC internally)
 - Users can view times in their local timezone when needed
 - Incident debugging remains accurate and fast
+
