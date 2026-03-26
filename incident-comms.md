@@ -5,6 +5,29 @@ Lack of visibility into deployments across services
 No quick mapping between incident ↔ release ↔ owner  
 ***
 
+A centralized system where:  
+
+Every deployment/release is logged  
+Linked with:  
+Service  
+Version  
+Change summary  
+Owner/team  
+Deployment time  
+Searchable during incidents  
+
+“Show releases in last 2 hours before incident”
+
+Smart Alerts 
+“High-risk release detected”  
+Based on:  
+Large number of changes  
+Critical services  
+Late-night deploys  
+
+***
+
+
 
 Build a full-stack MVP Release Tracker application for SRE teams.
 
