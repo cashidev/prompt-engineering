@@ -1,3 +1,24 @@
+During incidents:
+
+Engineers are stressed
+Info is incomplete
+Communication is delayed or inconsistent
+
+👉 Result:
+
+Poor customer experience
+Confusion internally & externally
+💡 Solution
+
+A system that takes minimal inputs and instantly generates:
+
+Customer-facing messages
+Internal updates
+Status page updates
+
+------
+
+
 - Incident Comms Summary Generator (SNOW Companion Tool)
 
 - Problem (The use case)
